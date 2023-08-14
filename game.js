@@ -83,9 +83,8 @@ function checkAnswer(currentLevel) {
   }
 }
 
-function startOver(){
+function startOver() {
   level = 0;
   gamePattern = [];
   gameStarted = false;
-
 }
